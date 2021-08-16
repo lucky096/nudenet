@@ -11,6 +11,7 @@ Code also includes simple bluring function that overlaps exposed body parts in t
 
 Function `processPrediction()` takes `model.predict()` output and returns object with array of detected body parts:
 
+<!-- 
 Possible body parts are defined as:
 
 ```js
@@ -33,6 +34,7 @@ const labels = {
   15: { id: 15, displayName: 'exposed male breast' },
 };
 ```
+-->
 
 Actual result object includes:
 
