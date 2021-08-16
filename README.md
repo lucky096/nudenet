@@ -50,9 +50,11 @@ And additionally, it augments results object with filtered detection objects tha
 
 <br><hr><br>
 
-## Example
 
-![Example Image](outputs/nude.jpg)
+<!--
+## Example
+ ![Example Image](outputs/nude.jpg) 
+-->
 
 <br><hr><br>
 
